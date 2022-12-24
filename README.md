@@ -1,0 +1,1 @@
+alias ll='LS_COLORS=$LS_COLORS:"di=0;34:" ; S_COLORS=$LS_COLORS:"fi=0;37:" ; export LS_COLORS; ls -dHhl --color=auto .*; LS_COLORS=$LS_COLORS:"di=1;94:" ; LS_COLORS=$LS_COLORS:"fi=1;37:" ; export LS_COLORS$
